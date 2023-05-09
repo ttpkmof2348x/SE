@@ -850,7 +850,7 @@
 											"height": 13,
 											"alpha": 1.5707963267948966,
 											"distance": 10,
-											"text": "2 : inputInformation()"
+											"text": "2 : getInformation()"
 										},
 										{
 											"_type": "NodeLabelView",
@@ -2223,7 +2223,7 @@
 							"_parent": {
 								"$ref": "AAAAAAGIAjLqom3z61I="
 							},
-							"name": "inputInformation()",
+							"name": "getInformation()",
 							"source": {
 								"$ref": "AAAAAAGIAjMc924CnZQ="
 							},
@@ -3727,7 +3727,7 @@
 											"height": 13,
 											"alpha": 1.5707963267948966,
 											"distance": 10,
-											"text": "2 : inputButton()"
+											"text": "2 : getButton()"
 										},
 										{
 											"_type": "NodeLabelView",
@@ -4799,7 +4799,7 @@
 							"_parent": {
 								"$ref": "AAAAAAGIAjf94YEbbo4="
 							},
-							"name": "inputButton()",
+							"name": "getButton()",
 							"source": {
 								"$ref": "AAAAAAGIAjg734FIN4g="
 							},
@@ -6179,7 +6179,7 @@
 											"height": 13,
 											"alpha": 1.5707963267948966,
 											"distance": 10,
-											"text": "2 : inputInformation()"
+											"text": "2 : getInformation()"
 										},
 										{
 											"_type": "NodeLabelView",
@@ -7251,7 +7251,7 @@
 							"_parent": {
 								"$ref": "AAAAAAGIAjs2x5Mi1mw="
 							},
-							"name": "inputInformation()",
+							"name": "getInformation()",
 							"source": {
 								"$ref": "AAAAAAGIAjt7XJNfgDA="
 							},
@@ -8289,7 +8289,7 @@
 											"height": 13,
 											"alpha": 1.5707963267948966,
 											"distance": 10,
-											"text": "2 : inputButton()"
+											"text": "2 : getButton()"
 										},
 										{
 											"_type": "NodeLabelView",
@@ -9343,7 +9343,7 @@
 							"_parent": {
 								"$ref": "AAAAAAGIAj+dHrrOAhI="
 							},
-							"name": "inputButton()",
+							"name": "getButton()",
 							"source": {
 								"$ref": "AAAAAAGIAj/e/LsbXj8="
 							},
@@ -9612,6 +9612,24 @@
 					},
 					"name": "Role4",
 					"type": ""
+				}
+			]
+		},
+		{
+			"_type": "UMLModel",
+			"_id": "AAAAAAGIAkdrLI660JQ=",
+			"_parent": {
+				"$ref": "AAAAAAFF+h6SjaM2Hec="
+			},
+			"name": "Model2",
+			"ownedElements": [
+				{
+					"_type": "UMLClassDiagram",
+					"_id": "AAAAAAGIAkdrLY67PYw=",
+					"_parent": {
+						"$ref": "AAAAAAGIAkdrLI660JQ="
+					},
+					"name": "ClassDiagram1"
 				}
 			]
 		}
