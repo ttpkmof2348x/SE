@@ -6690,7 +6690,7 @@
 									"font": "Arial;13;0",
 									"left": 8,
 									"top": 8,
-									"width": 873,
+									"width": 929,
 									"height": 305,
 									"nameLabel": {
 										"$ref": "AAAAAAGIAjs2x5Mlkdk="
@@ -7902,7 +7902,7 @@
 											"height": 13,
 											"alpha": 1.5707955575641275,
 											"distance": 13,
-											"text": "2.1.1 *[For all members equal to input Id] : getMember()"
+											"text": "2.1.1 *[For all members] : getMember()"
 										},
 										{
 											"_type": "NodeLabelView",
@@ -8215,13 +8215,13 @@
 												"$ref": "AAAAAAGIAj6jn7APd9w="
 											},
 											"font": "Arial;13;0",
-											"left": 433.230712890625,
+											"left": 391.323486328125,
 											"top": 104,
-											"width": 446.53857421875,
+											"width": 530.35302734375,
 											"height": 13,
 											"alpha": 1.5707959819673105,
 											"distance": 29,
-											"text": "2.1.2 [Fetched member is not null and password matched] : activateMember()"
+											"text": "2.1.2 [For all fetched members is not null and id password both matches] : activateMember()"
 										},
 										{
 											"_type": "NodeLabelView",
@@ -8765,7 +8765,7 @@
 								"$ref": "AAAAAAGIAj1CDZ3eC48="
 							},
 							"sequenceNumber": "2.1.1",
-							"iteration": "For all members equal to input Id"
+							"iteration": "For all members"
 						},
 						{
 							"_type": "UMLMessage",
@@ -8784,7 +8784,7 @@
 								"$ref": "AAAAAAGIAj6jnrAB8/E="
 							},
 							"sequenceNumber": "2.1.2",
-							"guard": "Fetched member is not null and password matched"
+							"guard": "For all fetched members is not null and id password both matches"
 						},
 						{
 							"_type": "UMLMessage",
