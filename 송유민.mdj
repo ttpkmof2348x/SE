@@ -21799,15 +21799,6 @@
 				},
 				{
 					"_type": "UMLOperation",
-					"_id": "AAAAAAGIAb2w9rvIwXw=",
-					"_parent": {
-						"$ref": "AAAAAAGIAakis0yls7E="
-					},
-					"name": "Application",
-					"visibility": "package"
-				},
-				{
-					"_type": "UMLOperation",
 					"_id": "AAAAAAGIAb3oP7vPXOA=",
 					"_parent": {
 						"$ref": "AAAAAAGIAakis0yls7E="
@@ -23561,23 +23552,6 @@
 										},
 										{
 											"_type": "UMLOperationView",
-											"_id": "AAAAAAGIAb2w/7vLAoc=",
-											"_parent": {
-												"$ref": "AAAAAAGIAbPlF6YTVc8="
-											},
-											"model": {
-												"$ref": "AAAAAAGIAb2w9rvIwXw="
-											},
-											"font": "Arial;13;0",
-											"left": 677,
-											"top": 396,
-											"width": 142.30810546875,
-											"height": 13,
-											"text": "~Application()",
-											"horizontalAlignment": 0
-										},
-										{
-											"_type": "UMLOperationView",
 											"_id": "AAAAAAGIAb3oR7vSqJ8=",
 											"_parent": {
 												"$ref": "AAAAAAGIAbPlF6YTVc8="
@@ -23587,7 +23561,7 @@
 											},
 											"font": "Arial;13;0",
 											"left": 677,
-											"top": 411,
+											"top": 396,
 											"width": 142.30810546875,
 											"height": 13,
 											"text": "+getMonth()",
@@ -23604,7 +23578,7 @@
 											},
 											"font": "Arial;13;0",
 											"left": 677,
-											"top": 426,
+											"top": 411,
 											"width": 142.30810546875,
 											"height": 13,
 											"text": "+getTask()",
@@ -23621,7 +23595,7 @@
 											},
 											"font": "Arial;13;0",
 											"left": 677,
-											"top": 441,
+											"top": 426,
 											"width": 142.30810546875,
 											"height": 13,
 											"text": "+deleteApplication()",
@@ -23632,7 +23606,7 @@
 									"left": 672,
 									"top": 376,
 									"width": 152.30810546875,
-									"height": 83
+									"height": 68
 								},
 								{
 									"_type": "UMLReceptionCompartmentView",
