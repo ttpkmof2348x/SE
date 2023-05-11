@@ -2978,7 +2978,8 @@
 										"$ref": "AAAAAAGIBh5xhX/lxwg="
 									},
 									"name": "isClassifiedAsCompany",
-									"visibility": "private"
+									"visibility": "private",
+									"type": ""
 								}
 							],
 							"operations": [
@@ -10343,7 +10344,7 @@
 											"containerExtending": true,
 											"left": 241,
 											"top": 649,
-											"width": 69.380859375,
+											"width": 69.357421875,
 											"height": 12,
 											"text": "«stereotype»"
 										},
@@ -10357,7 +10358,7 @@
 											"containerExtending": true,
 											"left": 241,
 											"top": 663,
-											"width": 69.380859375,
+											"width": 69.357421875,
 											"height": 12,
 											"text": "Create"
 										},
@@ -10395,7 +10396,7 @@
 									"containerExtending": true,
 									"left": 236,
 									"top": 644,
-									"width": 79.380859375,
+									"width": 79.357421875,
 									"height": 36,
 									"stereotypeLabel": {
 										"$ref": "AAAAAAGIBhiiA32Fyk4="
@@ -10466,7 +10467,7 @@
 							"containerExtending": true,
 							"left": 236,
 							"top": 644,
-							"width": 79.380859375,
+							"width": 79.357421875,
 							"height": 36,
 							"autoResize": true,
 							"nameCompartment": {
@@ -10531,7 +10532,7 @@
 											"containerExtending": true,
 											"left": 241,
 											"top": 713,
-											"width": 69.380859375,
+											"width": 69.357421875,
 											"height": 12,
 											"text": "«stereotype»"
 										},
@@ -10545,7 +10546,7 @@
 											"containerExtending": true,
 											"left": 241,
 											"top": 727,
-											"width": 69.380859375,
+											"width": 69.357421875,
 											"height": 12,
 											"text": "Call"
 										},
@@ -10583,7 +10584,7 @@
 									"containerExtending": true,
 									"left": 236,
 									"top": 708,
-									"width": 79.380859375,
+									"width": 79.357421875,
 									"height": 36,
 									"stereotypeLabel": {
 										"$ref": "AAAAAAGIBhiiA32P3EE="
@@ -10654,7 +10655,7 @@
 							"containerExtending": true,
 							"left": 236,
 							"top": 708,
-							"width": 79.380859375,
+							"width": 79.357421875,
 							"height": 36,
 							"autoResize": true,
 							"nameCompartment": {
@@ -10719,7 +10720,7 @@
 											"containerExtending": true,
 											"left": 241,
 											"top": 769,
-											"width": 69.380859375,
+											"width": 69.357421875,
 											"height": 12,
 											"text": "«stereotype»"
 										},
@@ -10733,7 +10734,7 @@
 											"containerExtending": true,
 											"left": 241,
 											"top": 783,
-											"width": 69.380859375,
+											"width": 69.357421875,
 											"height": 12,
 											"text": "Instantiate"
 										},
@@ -10771,7 +10772,7 @@
 									"containerExtending": true,
 									"left": 236,
 									"top": 764,
-									"width": 79.380859375,
+									"width": 79.357421875,
 									"height": 36,
 									"stereotypeLabel": {
 										"$ref": "AAAAAAGIBhiiA32Zm9Q="
@@ -10842,7 +10843,7 @@
 							"containerExtending": true,
 							"left": 236,
 							"top": 764,
-							"width": 79.380859375,
+							"width": 79.357421875,
 							"height": 36,
 							"autoResize": true,
 							"nameCompartment": {
@@ -10907,7 +10908,7 @@
 											"containerExtending": true,
 											"left": 241,
 											"top": 825,
-											"width": 82.013671875,
+											"width": 79.18359375,
 											"height": 12,
 											"text": "«stereotype»"
 										},
@@ -10921,7 +10922,7 @@
 											"containerExtending": true,
 											"left": 241,
 											"top": 839,
-											"width": 82.013671875,
+											"width": 79.18359375,
 											"height": 12,
 											"text": "Responsibility"
 										},
@@ -10959,7 +10960,7 @@
 									"containerExtending": true,
 									"left": 236,
 									"top": 820,
-									"width": 92.013671875,
+									"width": 89.18359375,
 									"height": 36,
 									"stereotypeLabel": {
 										"$ref": "AAAAAAGIBhiiA32jia0="
@@ -11030,7 +11031,7 @@
 							"containerExtending": true,
 							"left": 236,
 							"top": 820,
-							"width": 92.013671875,
+							"width": 89.18359375,
 							"height": 36,
 							"autoResize": true,
 							"nameCompartment": {
@@ -11095,7 +11096,7 @@
 											"containerExtending": true,
 											"left": 241,
 											"top": 881,
-											"width": 69.380859375,
+											"width": 69.357421875,
 											"height": 12,
 											"text": "«stereotype»"
 										},
@@ -11109,7 +11110,7 @@
 											"containerExtending": true,
 											"left": 241,
 											"top": 895,
-											"width": 69.380859375,
+											"width": 69.357421875,
 											"height": 12,
 											"text": "Send"
 										},
@@ -11147,7 +11148,7 @@
 									"containerExtending": true,
 									"left": 236,
 									"top": 876,
-									"width": 79.380859375,
+									"width": 79.357421875,
 									"height": 36,
 									"stereotypeLabel": {
 										"$ref": "AAAAAAGIBhiiA32t0tg="
@@ -11218,7 +11219,7 @@
 							"containerExtending": true,
 							"left": 236,
 							"top": 876,
-							"width": 79.380859375,
+							"width": 79.357421875,
 							"height": 36,
 							"autoResize": true,
 							"nameCompartment": {
@@ -11977,7 +11978,7 @@
 											"containerExtending": true,
 											"left": 745,
 											"top": 29,
-											"width": 110.396484375,
+											"width": 116.00390625,
 											"height": 12,
 											"text": "«stereotype»"
 										},
@@ -11991,7 +11992,7 @@
 											"containerExtending": true,
 											"left": 745,
 											"top": 43,
-											"width": 110.396484375,
+											"width": 116.00390625,
 											"height": 12,
 											"text": "Derive"
 										},
@@ -12027,7 +12028,7 @@
 									"containerExtending": true,
 									"left": 740,
 									"top": 24,
-									"width": 120.396484375,
+									"width": 126.00390625,
 									"height": 36,
 									"stereotypeLabel": {
 										"$ref": "AAAAAAGIBhiiA33VBXE="
@@ -12065,7 +12066,7 @@
 											"containerExtending": true,
 											"left": 745,
 											"top": 65,
-											"width": 110.396484375,
+											"width": 116.00390625,
 											"height": 12,
 											"text": "+computation: String",
 											"horizontalAlignment": 0
@@ -12116,7 +12117,7 @@
 							"containerExtending": true,
 							"left": 740,
 							"top": 24,
-							"width": 120.396484375,
+							"width": 126.00390625,
 							"height": 58,
 							"autoResize": true,
 							"nameCompartment": {
@@ -12180,7 +12181,7 @@
 											"containerExtending": true,
 											"left": 745,
 											"top": 101,
-											"width": 69.380859375,
+											"width": 69.357421875,
 											"height": 12,
 											"text": "«stereotype»"
 										},
@@ -12194,7 +12195,7 @@
 											"containerExtending": true,
 											"left": 745,
 											"top": 115,
-											"width": 69.380859375,
+											"width": 69.357421875,
 											"height": 12,
 											"text": "Refine"
 										},
@@ -12232,7 +12233,7 @@
 									"containerExtending": true,
 									"left": 740,
 									"top": 96,
-									"width": 79.380859375,
+									"width": 79.357421875,
 									"height": 36,
 									"stereotypeLabel": {
 										"$ref": "AAAAAAGIBhiiA33g+Co="
@@ -12303,7 +12304,7 @@
 							"containerExtending": true,
 							"left": 740,
 							"top": 96,
-							"width": 79.380859375,
+							"width": 79.357421875,
 							"height": 36,
 							"autoResize": true,
 							"nameCompartment": {
@@ -12368,7 +12369,7 @@
 											"containerExtending": true,
 											"left": 745,
 											"top": 153,
-											"width": 69.380859375,
+											"width": 69.357421875,
 											"height": 12,
 											"text": "«stereotype»"
 										},
@@ -12382,7 +12383,7 @@
 											"containerExtending": true,
 											"left": 745,
 											"top": 167,
-											"width": 69.380859375,
+											"width": 69.357421875,
 											"height": 12,
 											"text": "Trace"
 										},
@@ -12420,7 +12421,7 @@
 									"containerExtending": true,
 									"left": 740,
 									"top": 148,
-									"width": 79.380859375,
+									"width": 79.357421875,
 									"height": 36,
 									"stereotypeLabel": {
 										"$ref": "AAAAAAGIBhiiBH3q664="
@@ -12491,7 +12492,7 @@
 							"containerExtending": true,
 							"left": 740,
 							"top": 148,
-							"width": 79.380859375,
+							"width": 79.357421875,
 							"height": 36,
 							"autoResize": true,
 							"nameCompartment": {
@@ -19494,7 +19495,7 @@
 											"font": "Arial;13;0",
 											"left": 469,
 											"top": 389,
-											"width": 128.96533203125,
+											"width": 134.6337890625,
 											"height": 13,
 											"text": "«entity»"
 										},
@@ -19507,7 +19508,7 @@
 											"font": "Arial;13;1",
 											"left": 469,
 											"top": 404,
-											"width": 128.96533203125,
+											"width": 134.6337890625,
 											"height": 13,
 											"text": "Recruitment"
 										},
@@ -19542,7 +19543,7 @@
 									"font": "Arial;13;0",
 									"left": 464,
 									"top": 384,
-									"width": 138.96533203125,
+									"width": 144.6337890625,
 									"height": 38,
 									"stereotypeLabel": {
 										"$ref": "AAAAAAGIBtAObnJMVjc="
@@ -19579,7 +19580,7 @@
 											"font": "Arial;13;0",
 											"left": 469,
 											"top": 427,
-											"width": 128.96533203125,
+											"width": 134.6337890625,
 											"height": 13,
 											"text": "-companyName",
 											"horizontalAlignment": 0
@@ -19596,7 +19597,7 @@
 											"font": "Arial;13;0",
 											"left": 469,
 											"top": 442,
-											"width": 128.96533203125,
+											"width": 134.6337890625,
 											"height": 13,
 											"text": "-task",
 											"horizontalAlignment": 0
@@ -19613,7 +19614,7 @@
 											"font": "Arial;13;0",
 											"left": 469,
 											"top": 457,
-											"width": 128.96533203125,
+											"width": 134.6337890625,
 											"height": 13,
 											"text": "-numPeople",
 											"horizontalAlignment": 0
@@ -19630,7 +19631,7 @@
 											"font": "Arial;13;0",
 											"left": 469,
 											"top": 472,
-											"width": 128.96533203125,
+											"width": 134.6337890625,
 											"height": 13,
 											"text": "-applyDeadline",
 											"horizontalAlignment": 0
@@ -19647,7 +19648,7 @@
 											"font": "Arial;13;0",
 											"left": 469,
 											"top": 487,
-											"width": 128.96533203125,
+											"width": 134.6337890625,
 											"height": 13,
 											"text": "-applicantsNum",
 											"horizontalAlignment": 0
@@ -19656,7 +19657,7 @@
 									"font": "Arial;13;0",
 									"left": 464,
 									"top": 422,
-									"width": 138.96533203125,
+									"width": 144.6337890625,
 									"height": 83
 								},
 								{
@@ -19681,7 +19682,7 @@
 											"font": "Arial;13;0",
 											"left": 469,
 											"top": 510,
-											"width": 128.96533203125,
+											"width": 134.6337890625,
 											"height": 13,
 											"text": "+printApplicantsNum()",
 											"horizontalAlignment": 0
@@ -19690,7 +19691,7 @@
 									"font": "Arial;13;0",
 									"left": 464,
 									"top": 505,
-									"width": 138.96533203125,
+									"width": 144.6337890625,
 									"height": 23
 								},
 								{
@@ -19733,7 +19734,7 @@
 							"containerChangeable": true,
 							"left": 464,
 							"top": 384,
-							"width": 138.96533203125,
+							"width": 144.6337890625,
 							"height": 144,
 							"nameCompartment": {
 								"$ref": "AAAAAAGIBtAObnJLas0="
@@ -20143,7 +20144,8 @@
 										"$ref": "AAAAAAGIBs6/PHAJ5KU="
 									},
 									"name": "companyName",
-									"visibility": "private"
+									"visibility": "private",
+									"type": ""
 								},
 								{
 									"_type": "UMLAttribute",
@@ -20152,7 +20154,8 @@
 										"$ref": "AAAAAAGIBs6/PHAJ5KU="
 									},
 									"name": "task",
-									"visibility": "private"
+									"visibility": "private",
+									"type": ""
 								},
 								{
 									"_type": "UMLAttribute",
@@ -20161,7 +20164,8 @@
 										"$ref": "AAAAAAGIBs6/PHAJ5KU="
 									},
 									"name": "numPeople",
-									"visibility": "private"
+									"visibility": "private",
+									"type": ""
 								},
 								{
 									"_type": "UMLAttribute",
@@ -20170,7 +20174,8 @@
 										"$ref": "AAAAAAGIBs6/PHAJ5KU="
 									},
 									"name": "applyDeadline",
-									"visibility": "private"
+									"visibility": "private",
+									"type": ""
 								},
 								{
 									"_type": "UMLAttribute",
@@ -20179,7 +20184,8 @@
 										"$ref": "AAAAAAGIBs6/PHAJ5KU="
 									},
 									"name": "applicantsNum",
-									"visibility": "private"
+									"visibility": "private",
+									"type": ""
 								}
 							],
 							"operations": [
