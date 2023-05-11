@@ -44,9 +44,9 @@
 												"$ref": "AAAAAAGIAUO+EO4ZHck="
 											},
 											"font": "Arial;13;0",
-											"left": 32.72998046875,
+											"left": 30.55908203125,
 											"top": 13,
-											"width": 198.97705078125,
+											"width": 181.12744140625,
 											"height": 13,
 											"text": "Register a new type of recruitment"
 										},
@@ -59,7 +59,7 @@
 											"font": "Arial;13;1",
 											"left": 13,
 											"top": 13,
-											"width": 14.72998046875,
+											"width": 12.55908203125,
 											"height": 13,
 											"text": "sd"
 										}
@@ -4893,9 +4893,9 @@
 												"$ref": "AAAAAAGIBFW50UatCqg="
 											},
 											"font": "Arial;13;0",
-											"left": 24.72998046875,
+											"left": 22.55908203125,
 											"top": 5,
-											"width": 157.076171875,
+											"width": 146.1328125,
 											"height": 13,
 											"text": "Look up the recruitment list"
 										},
@@ -4908,7 +4908,7 @@
 											"font": "Arial;13;1",
 											"left": 5,
 											"top": 5,
-											"width": 14.72998046875,
+											"width": 12.55908203125,
 											"height": 13,
 											"text": "sd"
 										}
@@ -8542,8 +8542,8 @@
 												"$ref": "AAAAAAGIBGHsTl3xo2M="
 											},
 											"font": "Arial;13;0",
-											"left": 24.72998046875,
-											"top": 13,
+											"left": 40.72998046875,
+											"top": 5,
 											"width": 295.06787109375,
 											"height": 13,
 											"text": "Modify a specific part in the recruitment information"
@@ -8555,15 +8555,15 @@
 												"$ref": "AAAAAAGIBGHsTl3xo2M="
 											},
 											"font": "Arial;13;1",
-											"left": 5,
-											"top": 13,
+											"left": 21,
+											"top": 5,
 											"width": 14.72998046875,
 											"height": 13,
 											"text": "sd"
 										}
 									],
 									"font": "Arial;13;0",
-									"top": 8,
+									"left": 16,
 									"width": 705,
 									"height": 593,
 									"nameLabel": {
@@ -9942,12 +9942,12 @@
 												"$ref": "AAAAAAGIBGYp5JV7HXY="
 											},
 											"font": "Arial;13;0",
-											"left": 150.619140625,
-											"top": 175,
+											"left": 149.619140625,
+											"top": 167,
 											"width": 130.76171875,
 											"height": 13,
-											"alpha": -4.643532834278919,
-											"distance": 29.068883707497267,
+											"alpha": -4.631485149734544,
+											"distance": 37.12142238654117,
 											"text": "3 : selectRecruitment()"
 										},
 										{
@@ -10344,13 +10344,13 @@
 												"$ref": "AAAAAAGIBGaZM6MDza8="
 											},
 											"font": "Arial;13;0",
-											"left": 385.65185546875,
+											"left": 362.53369140625,
 											"top": 184,
-											"width": 99.6962890625,
+											"width": 145.9326171875,
 											"height": 13,
 											"alpha": 1.5707958004791072,
 											"distance": 19,
-											"text": "4.1 : modifyPart()"
+											"text": "4.1 : modifyRecruitment()"
 										},
 										{
 											"_type": "NodeLabelView",
@@ -10663,13 +10663,13 @@
 												"$ref": "AAAAAAGIBGdmnNG7Wac="
 											},
 											"font": "Arial;13;0",
-											"left": 174.7373046875,
-											"top": 191,
-											"width": 84.525390625,
+											"left": 152.063232421875,
+											"top": 183,
+											"width": 127.87353515625,
 											"height": 13,
-											"alpha": -4.635617853820839,
-											"distance": 13.038404810405298,
-											"text": "4 : selectPart()"
+											"alpha": -4.617437745952067,
+											"distance": 21.095023109728988,
+											"text": "4 : clickModifyButton()"
 										},
 										{
 											"_type": "NodeLabelView",
@@ -11620,12 +11620,12 @@
 												"$ref": "AAAAAAGIBGk02TK43Vw="
 											},
 											"font": "Arial;13;0",
-											"left": 363.445068359375,
+											"left": 351.445068359375,
 											"top": 368,
 											"width": 174.10986328125,
 											"height": 13,
-											"alpha": -3.033580915977263,
-											"distance": 83.48652585896721,
+											"alpha": -3.047137708311152,
+											"distance": 95.42536350467836,
 											"text": "3.1.1 : listRecruitmentDetails()"
 										},
 										{
@@ -11939,13 +11939,13 @@
 												"$ref": "AAAAAAGIBGnzN2tAEIA="
 											},
 											"font": "Arial;13;0",
-											"left": 394.23095703125,
-											"top": 391,
-											"width": 110.5380859375,
+											"left": 336.24462890625,
+											"top": 392,
+											"width": 196.5107421875,
 											"height": 13,
-											"alpha": -2.771269184194929,
-											"distance": 91.18113840043894,
-											"text": "4.1.1 : modifyPart()"
+											"alpha": -2.8138541163323616,
+											"distance": 105.62196741208714,
+											"text": "4.1.1 : modifyRecruitmentDetails()"
 										},
 										{
 											"_type": "NodeLabelView",
@@ -12049,7 +12049,7 @@
 							"_parent": {
 								"$ref": "AAAAAAGIBGHsTl3vtG0="
 							},
-							"name": "modifyPart()",
+							"name": "modifyRecruitment()",
 							"source": {
 								"$ref": "AAAAAAGIBGKkZV6WeDg="
 							},
@@ -12067,7 +12067,7 @@
 							"_parent": {
 								"$ref": "AAAAAAGIBGHsTl3vtG0="
 							},
-							"name": "selectPart()",
+							"name": "clickModifyButton()",
 							"source": {
 								"$ref": "AAAAAAGIBGLpl163KWM="
 							},
@@ -12139,7 +12139,7 @@
 							"_parent": {
 								"$ref": "AAAAAAGIBGHsTl3vtG0="
 							},
-							"name": "modifyPart()",
+							"name": "modifyRecruitmentDetails()",
 							"source": {
 								"$ref": "AAAAAAGIBGN/gGBAGOg="
 							},
@@ -12758,9 +12758,9 @@
 												"$ref": "AAAAAAGIBGxCRd1ic9w="
 											},
 											"font": "Arial;13;0",
-											"left": 32.72998046875,
+											"left": 30.55908203125,
 											"top": 13,
-											"width": 232.9306640625,
+											"width": 214.69384765625,
 											"height": 13,
 											"text": "Delete a specific recruitment information"
 										},
@@ -12773,7 +12773,7 @@
 											"font": "Arial;13;1",
 											"left": 13,
 											"top": 13,
-											"width": 14.72998046875,
+											"width": 12.55908203125,
 											"height": 13,
 											"text": "sd"
 										}
@@ -16356,9 +16356,9 @@
 												"$ref": "AAAAAAGIBG/aIxuqib8="
 											},
 											"font": "Arial;13;0",
-											"left": 32.72998046875,
+											"left": 30.55908203125,
 											"top": 13,
-											"width": 134.65625,
+											"width": 123.00830078125,
 											"height": 13,
 											"text": "Close recruitment early"
 										},
@@ -16371,7 +16371,7 @@
 											"font": "Arial;13;1",
 											"left": 13,
 											"top": 13,
-											"width": 14.72998046875,
+											"width": 12.55908203125,
 											"height": 13,
 											"text": "sd"
 										}
@@ -19557,9 +19557,9 @@
 												"$ref": "AAAAAAGIBHj5EHfmcUE="
 											},
 											"font": "Arial;13;0",
-											"left": 56.72998046875,
+											"left": 54.55908203125,
 											"top": 93,
-											"width": 158.5107421875,
+											"width": 141.0546875,
 											"height": 13,
 											"text": "Search closed recruitments"
 										},
@@ -19572,7 +19572,7 @@
 											"font": "Arial;13;1",
 											"left": 37,
 											"top": 93,
-											"width": 14.72998046875,
+											"width": 12.55908203125,
 											"height": 13,
 											"text": "sd"
 										}
@@ -24280,8 +24280,8 @@
 												"$ref": "AAAAAAGIB+5WwTFXN2Y="
 											},
 											"font": "Arial;13;0",
-											"left": 381,
-											"top": 613,
+											"left": 365,
+											"top": 605,
 											"width": 192.54345703125,
 											"height": 13,
 											"text": "«Entity»"
@@ -24293,8 +24293,8 @@
 												"$ref": "AAAAAAGIB+5WwTFXN2Y="
 											},
 											"font": "Arial;13;1",
-											"left": 381,
-											"top": 628,
+											"left": 365,
+											"top": 620,
 											"width": 192.54345703125,
 											"height": 13,
 											"text": "Recruitment"
@@ -24307,8 +24307,8 @@
 											},
 											"visible": false,
 											"font": "Arial;13;0",
-											"left": -168,
-											"top": 360,
+											"left": -200,
+											"top": 344,
 											"width": 121.60205078125,
 											"height": 13,
 											"text": "(from 채용 정보 관리)"
@@ -24321,15 +24321,15 @@
 											},
 											"visible": false,
 											"font": "Arial;13;0",
-											"left": -168,
-											"top": 360,
+											"left": -200,
+											"top": 344,
 											"height": 13,
 											"horizontalAlignment": 1
 										}
 									],
 									"font": "Arial;13;0",
-									"left": 376,
-									"top": 608,
+									"left": 360,
+									"top": 600,
 									"width": 202.54345703125,
 									"height": 38,
 									"stereotypeLabel": {
@@ -24365,8 +24365,8 @@
 												"$ref": "AAAAAAGIB+6PQDGACsk="
 											},
 											"font": "Arial;13;0",
-											"left": 381,
-											"top": 651,
+											"left": 365,
+											"top": 643,
 											"width": 192.54345703125,
 											"height": 13,
 											"text": "-task",
@@ -24382,8 +24382,8 @@
 												"$ref": "AAAAAAGIB+7IKDGJ2SU="
 											},
 											"font": "Arial;13;0",
-											"left": 381,
-											"top": 666,
+											"left": 365,
+											"top": 658,
 											"width": 192.54345703125,
 											"height": 13,
 											"text": "-numPeople",
@@ -24399,8 +24399,8 @@
 												"$ref": "AAAAAAGIB+7iQjGQmfo="
 											},
 											"font": "Arial;13;0",
-											"left": 381,
-											"top": 681,
+											"left": 365,
+											"top": 673,
 											"width": 192.54345703125,
 											"height": 13,
 											"text": "-deadline",
@@ -24408,8 +24408,8 @@
 										}
 									],
 									"font": "Arial;13;0",
-									"left": 376,
-									"top": 646,
+									"left": 360,
+									"top": 638,
 									"width": 202.54345703125,
 									"height": 53
 								},
@@ -24433,8 +24433,8 @@
 												"$ref": "AAAAAAGIB+8eSDGXzcU="
 											},
 											"font": "Arial;13;0",
-											"left": 381,
-											"top": 704,
+											"left": 365,
+											"top": 696,
 											"width": 192.54345703125,
 											"height": 13,
 											"text": "+inputDetails()",
@@ -24450,8 +24450,8 @@
 												"$ref": "AAAAAAGIB/LrlVDpFz8="
 											},
 											"font": "Arial;13;0",
-											"left": 381,
-											"top": 719,
+											"left": 365,
+											"top": 711,
 											"width": 192.54345703125,
 											"height": 13,
 											"text": "+getRecruitment()",
@@ -24467,8 +24467,8 @@
 												"$ref": "AAAAAAGIB/PyeWLzp70="
 											},
 											"font": "Arial;13;0",
-											"left": 381,
-											"top": 734,
+											"left": 365,
+											"top": 726,
 											"width": 192.54345703125,
 											"height": 13,
 											"text": "+listRecruitmentDetails()",
@@ -24484,11 +24484,11 @@
 												"$ref": "AAAAAAGIB/cF7HQv3PA="
 											},
 											"font": "Arial;13;0",
-											"left": 381,
-											"top": 749,
+											"left": 365,
+											"top": 741,
 											"width": 192.54345703125,
 											"height": 13,
-											"text": "+modifyPart()",
+											"text": "+modifyRecruitmentDetails()",
 											"horizontalAlignment": 0
 										},
 										{
@@ -24501,8 +24501,8 @@
 												"$ref": "AAAAAAGIB/m5EYiCbNU="
 											},
 											"font": "Arial;13;0",
-											"left": 381,
-											"top": 764,
+											"left": 365,
+											"top": 756,
 											"width": 192.54345703125,
 											"height": 13,
 											"text": "~Recruitment()",
@@ -24518,8 +24518,8 @@
 												"$ref": "AAAAAAGIB/xa1piBpSE="
 											},
 											"font": "Arial;13;0",
-											"left": 381,
-											"top": 779,
+											"left": 365,
+											"top": 771,
 											"width": 192.54345703125,
 											"height": 13,
 											"text": "+closeSelectedEarly()",
@@ -24535,8 +24535,8 @@
 												"$ref": "AAAAAAGIB/5OyaGG0H4="
 											},
 											"font": "Arial;13;0",
-											"left": 381,
-											"top": 794,
+											"left": 365,
+											"top": 786,
 											"width": 192.54345703125,
 											"height": 13,
 											"text": "+sortRecruitmentDeadlineOrder()",
@@ -24544,8 +24544,8 @@
 										}
 									],
 									"font": "Arial;13;0",
-									"left": 376,
-									"top": 699,
+									"left": 360,
+									"top": 691,
 									"width": 202.54345703125,
 									"height": 113
 								},
@@ -24560,8 +24560,8 @@
 									},
 									"visible": false,
 									"font": "Arial;13;0",
-									"left": 512,
-									"top": 144,
+									"left": 496,
+									"top": 136,
 									"width": 10,
 									"height": 10
 								},
@@ -24576,8 +24576,8 @@
 									},
 									"visible": false,
 									"font": "Arial;13;0",
-									"left": 512,
-									"top": 144,
+									"left": 496,
+									"top": 136,
 									"width": 10,
 									"height": 10
 								}
@@ -24587,8 +24587,8 @@
 							},
 							"font": "Arial;13;0",
 							"containerChangeable": true,
-							"left": 376,
-							"top": 608,
+							"left": 360,
+							"top": 600,
 							"width": 202.54345703125,
 							"height": 204,
 							"nameCompartment": {
@@ -24755,7 +24755,7 @@
 											"top": 340,
 											"width": 120.2880859375,
 											"height": 13,
-											"text": "+selectPart()",
+											"text": "+clickModifyButton()",
 											"horizontalAlignment": 0
 										},
 										{
@@ -24988,7 +24988,7 @@
 											"top": 348,
 											"width": 156.41259765625,
 											"height": 13,
-											"text": "+modifyPart()",
+											"text": "+modifyRecruitment()",
 											"horizontalAlignment": 0
 										}
 									],
@@ -26339,7 +26339,7 @@
 											"font": "Arial;13;0",
 											"left": 32,
 											"top": 16,
-											"width": 112.963623046875,
+											"width": 121.60205078125,
 											"height": 13,
 											"text": "(from 채용 정보 관리)"
 										},
@@ -26641,7 +26641,7 @@
 									"_parent": {
 										"$ref": "AAAAAAGIB+5WwDFU5dY="
 									},
-									"name": "modifyPart"
+									"name": "modifyRecruitmentDetails"
 								},
 								{
 									"_type": "UMLOperation",
@@ -26695,7 +26695,7 @@
 									"_parent": {
 										"$ref": "AAAAAAGIB/STkGfpx9E="
 									},
-									"name": "selectPart"
+									"name": "clickModifyButton"
 								},
 								{
 									"_type": "UMLOperation",
@@ -26732,7 +26732,7 @@
 									"_parent": {
 										"$ref": "AAAAAAGIB/XiFG6DGr0="
 									},
-									"name": "modifyPart"
+									"name": "modifyRecruitment"
 								}
 							]
 						},
