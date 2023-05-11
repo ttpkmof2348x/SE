@@ -1782,7 +1782,7 @@
 											"top": 218,
 											"width": 156.74267578125,
 											"height": 13,
-											"text": "+inputButton()",
+											"text": "+clickButton()",
 											"horizontalAlignment": 0
 										}
 									],
@@ -2614,7 +2614,7 @@
 											"top": 218,
 											"width": 152.40087890625,
 											"height": 13,
-											"text": "+inputButton()",
+											"text": "+clickButton()",
 											"horizontalAlignment": 0
 										}
 									],
@@ -3287,7 +3287,7 @@
 							"_parent": {
 								"$ref": "AAAAAAGIBjuQioFkUNU="
 							},
-							"name": "inputButton"
+							"name": "clickButton"
 						}
 					]
 				},
@@ -3337,7 +3337,7 @@
 							"_parent": {
 								"$ref": "AAAAAAGIBlKiKIKNJbk="
 							},
-							"name": "inputButton"
+							"name": "clickButton"
 						}
 					]
 				},
@@ -10345,10 +10345,14 @@
 											"left": 241,
 											"top": 649,
 <<<<<<< HEAD
+											"width": 69.380859375,
+=======
+<<<<<<< HEAD
 											"width": 61.3125,
 =======
 											"width": 69.357421875,
 >>>>>>> 1e62f8a5afe68ee9ec40f75d067c8aa462a70be8
+>>>>>>> ab403b8d3729687a26467328f5556b3261ea232c
 											"height": 12,
 											"text": "«stereotype»"
 										},
@@ -10363,10 +10367,14 @@
 											"left": 241,
 											"top": 663,
 <<<<<<< HEAD
+											"width": 69.380859375,
+=======
+<<<<<<< HEAD
 											"width": 61.3125,
 =======
 											"width": 69.357421875,
 >>>>>>> 1e62f8a5afe68ee9ec40f75d067c8aa462a70be8
+>>>>>>> ab403b8d3729687a26467328f5556b3261ea232c
 											"height": 12,
 											"text": "Create"
 										},
@@ -10404,7 +10412,7 @@
 									"containerExtending": true,
 									"left": 236,
 									"top": 644,
-									"width": 79.357421875,
+									"width": 79.380859375,
 									"height": 36,
 									"stereotypeLabel": {
 										"$ref": "AAAAAAGIBhiiA32Fyk4="
@@ -10476,10 +10484,14 @@
 							"left": 236,
 							"top": 644,
 <<<<<<< HEAD
+							"width": 79.380859375,
+=======
+<<<<<<< HEAD
 							"width": 71.3125,
 =======
 							"width": 79.357421875,
 >>>>>>> 1e62f8a5afe68ee9ec40f75d067c8aa462a70be8
+>>>>>>> ab403b8d3729687a26467328f5556b3261ea232c
 							"height": 36,
 							"autoResize": true,
 							"nameCompartment": {
@@ -10545,10 +10557,14 @@
 											"left": 241,
 											"top": 713,
 <<<<<<< HEAD
+											"width": 69.380859375,
+=======
+<<<<<<< HEAD
 											"width": 61.3125,
 =======
 											"width": 69.357421875,
 >>>>>>> 1e62f8a5afe68ee9ec40f75d067c8aa462a70be8
+>>>>>>> ab403b8d3729687a26467328f5556b3261ea232c
 											"height": 12,
 											"text": "«stereotype»"
 										},
@@ -10563,10 +10579,14 @@
 											"left": 241,
 											"top": 727,
 <<<<<<< HEAD
+											"width": 69.380859375,
+=======
+<<<<<<< HEAD
 											"width": 61.3125,
 =======
 											"width": 69.357421875,
 >>>>>>> 1e62f8a5afe68ee9ec40f75d067c8aa462a70be8
+>>>>>>> ab403b8d3729687a26467328f5556b3261ea232c
 											"height": 12,
 											"text": "Call"
 										},
@@ -10604,7 +10624,7 @@
 									"containerExtending": true,
 									"left": 236,
 									"top": 708,
-									"width": 79.357421875,
+									"width": 79.380859375,
 									"height": 36,
 									"stereotypeLabel": {
 										"$ref": "AAAAAAGIBhiiA32P3EE="
@@ -10676,10 +10696,14 @@
 							"left": 236,
 							"top": 708,
 <<<<<<< HEAD
+							"width": 79.380859375,
+=======
+<<<<<<< HEAD
 							"width": 71.3125,
 =======
 							"width": 79.357421875,
 >>>>>>> 1e62f8a5afe68ee9ec40f75d067c8aa462a70be8
+>>>>>>> ab403b8d3729687a26467328f5556b3261ea232c
 							"height": 36,
 							"autoResize": true,
 							"nameCompartment": {
@@ -10745,10 +10769,14 @@
 											"left": 241,
 											"top": 769,
 <<<<<<< HEAD
+											"width": 69.380859375,
+=======
+<<<<<<< HEAD
 											"width": 61.3125,
 =======
 											"width": 69.357421875,
 >>>>>>> 1e62f8a5afe68ee9ec40f75d067c8aa462a70be8
+>>>>>>> ab403b8d3729687a26467328f5556b3261ea232c
 											"height": 12,
 											"text": "«stereotype»"
 										},
@@ -10763,10 +10791,14 @@
 											"left": 241,
 											"top": 783,
 <<<<<<< HEAD
+											"width": 69.380859375,
+=======
+<<<<<<< HEAD
 											"width": 61.3125,
 =======
 											"width": 69.357421875,
 >>>>>>> 1e62f8a5afe68ee9ec40f75d067c8aa462a70be8
+>>>>>>> ab403b8d3729687a26467328f5556b3261ea232c
 											"height": 12,
 											"text": "Instantiate"
 										},
@@ -10804,7 +10836,7 @@
 									"containerExtending": true,
 									"left": 236,
 									"top": 764,
-									"width": 79.357421875,
+									"width": 79.380859375,
 									"height": 36,
 									"stereotypeLabel": {
 										"$ref": "AAAAAAGIBhiiA32Zm9Q="
@@ -10876,10 +10908,14 @@
 							"left": 236,
 							"top": 764,
 <<<<<<< HEAD
+							"width": 79.380859375,
+=======
+<<<<<<< HEAD
 							"width": 71.3125,
 =======
 							"width": 79.357421875,
 >>>>>>> 1e62f8a5afe68ee9ec40f75d067c8aa462a70be8
+>>>>>>> ab403b8d3729687a26467328f5556b3261ea232c
 							"height": 36,
 							"autoResize": true,
 							"nameCompartment": {
@@ -10945,10 +10981,14 @@
 											"left": 241,
 											"top": 825,
 <<<<<<< HEAD
+											"width": 82.013671875,
+=======
+<<<<<<< HEAD
 											"width": 72.685546875,
 =======
 											"width": 79.18359375,
 >>>>>>> 1e62f8a5afe68ee9ec40f75d067c8aa462a70be8
+>>>>>>> ab403b8d3729687a26467328f5556b3261ea232c
 											"height": 12,
 											"text": "«stereotype»"
 										},
@@ -10963,10 +11003,14 @@
 											"left": 241,
 											"top": 839,
 <<<<<<< HEAD
+											"width": 82.013671875,
+=======
+<<<<<<< HEAD
 											"width": 72.685546875,
 =======
 											"width": 79.18359375,
 >>>>>>> 1e62f8a5afe68ee9ec40f75d067c8aa462a70be8
+>>>>>>> ab403b8d3729687a26467328f5556b3261ea232c
 											"height": 12,
 											"text": "Responsibility"
 										},
@@ -11004,7 +11048,7 @@
 									"containerExtending": true,
 									"left": 236,
 									"top": 820,
-									"width": 89.18359375,
+									"width": 92.013671875,
 									"height": 36,
 									"stereotypeLabel": {
 										"$ref": "AAAAAAGIBhiiA32jia0="
@@ -11076,10 +11120,14 @@
 							"left": 236,
 							"top": 820,
 <<<<<<< HEAD
+							"width": 92.013671875,
+=======
+<<<<<<< HEAD
 							"width": 82.685546875,
 =======
 							"width": 89.18359375,
 >>>>>>> 1e62f8a5afe68ee9ec40f75d067c8aa462a70be8
+>>>>>>> ab403b8d3729687a26467328f5556b3261ea232c
 							"height": 36,
 							"autoResize": true,
 							"nameCompartment": {
@@ -11145,10 +11193,14 @@
 											"left": 241,
 											"top": 881,
 <<<<<<< HEAD
+											"width": 69.380859375,
+=======
+<<<<<<< HEAD
 											"width": 61.3125,
 =======
 											"width": 69.357421875,
 >>>>>>> 1e62f8a5afe68ee9ec40f75d067c8aa462a70be8
+>>>>>>> ab403b8d3729687a26467328f5556b3261ea232c
 											"height": 12,
 											"text": "«stereotype»"
 										},
@@ -11163,10 +11215,14 @@
 											"left": 241,
 											"top": 895,
 <<<<<<< HEAD
+											"width": 69.380859375,
+=======
+<<<<<<< HEAD
 											"width": 61.3125,
 =======
 											"width": 69.357421875,
 >>>>>>> 1e62f8a5afe68ee9ec40f75d067c8aa462a70be8
+>>>>>>> ab403b8d3729687a26467328f5556b3261ea232c
 											"height": 12,
 											"text": "Send"
 										},
@@ -11204,7 +11260,7 @@
 									"containerExtending": true,
 									"left": 236,
 									"top": 876,
-									"width": 79.357421875,
+									"width": 79.380859375,
 									"height": 36,
 									"stereotypeLabel": {
 										"$ref": "AAAAAAGIBhiiA32t0tg="
@@ -11276,10 +11332,14 @@
 							"left": 236,
 							"top": 876,
 <<<<<<< HEAD
+							"width": 79.380859375,
+=======
+<<<<<<< HEAD
 							"width": 71.3125,
 =======
 							"width": 79.357421875,
 >>>>>>> 1e62f8a5afe68ee9ec40f75d067c8aa462a70be8
+>>>>>>> ab403b8d3729687a26467328f5556b3261ea232c
 							"height": 36,
 							"autoResize": true,
 							"nameCompartment": {
@@ -12039,10 +12099,14 @@
 											"left": 745,
 											"top": 29,
 <<<<<<< HEAD
+											"width": 110.396484375,
+=======
+<<<<<<< HEAD
 											"width": 102.427734375,
 =======
 											"width": 116.00390625,
 >>>>>>> 1e62f8a5afe68ee9ec40f75d067c8aa462a70be8
+>>>>>>> ab403b8d3729687a26467328f5556b3261ea232c
 											"height": 12,
 											"text": "«stereotype»"
 										},
@@ -12057,10 +12121,14 @@
 											"left": 745,
 											"top": 43,
 <<<<<<< HEAD
+											"width": 110.396484375,
+=======
+<<<<<<< HEAD
 											"width": 102.427734375,
 =======
 											"width": 116.00390625,
 >>>>>>> 1e62f8a5afe68ee9ec40f75d067c8aa462a70be8
+>>>>>>> ab403b8d3729687a26467328f5556b3261ea232c
 											"height": 12,
 											"text": "Derive"
 										},
@@ -12097,10 +12165,14 @@
 									"left": 740,
 									"top": 24,
 <<<<<<< HEAD
+									"width": 120.396484375,
+=======
+<<<<<<< HEAD
 									"width": 112.427734375,
 =======
 									"width": 126.00390625,
 >>>>>>> 1e62f8a5afe68ee9ec40f75d067c8aa462a70be8
+>>>>>>> ab403b8d3729687a26467328f5556b3261ea232c
 									"height": 36,
 									"stereotypeLabel": {
 										"$ref": "AAAAAAGIBhiiA33VBXE="
@@ -12139,10 +12211,14 @@
 											"left": 745,
 											"top": 65,
 <<<<<<< HEAD
+											"width": 110.396484375,
+=======
+<<<<<<< HEAD
 											"width": 102.427734375,
 =======
 											"width": 116.00390625,
 >>>>>>> 1e62f8a5afe68ee9ec40f75d067c8aa462a70be8
+>>>>>>> ab403b8d3729687a26467328f5556b3261ea232c
 											"height": 12,
 											"text": "+computation: String",
 											"horizontalAlignment": 0
@@ -12194,10 +12270,14 @@
 							"left": 740,
 							"top": 24,
 <<<<<<< HEAD
+							"width": 120.396484375,
+=======
+<<<<<<< HEAD
 							"width": 112.427734375,
 =======
 							"width": 126.00390625,
 >>>>>>> 1e62f8a5afe68ee9ec40f75d067c8aa462a70be8
+>>>>>>> ab403b8d3729687a26467328f5556b3261ea232c
 							"height": 58,
 							"autoResize": true,
 							"nameCompartment": {
@@ -12262,10 +12342,14 @@
 											"left": 745,
 											"top": 101,
 <<<<<<< HEAD
+											"width": 69.380859375,
+=======
+<<<<<<< HEAD
 											"width": 61.3125,
 =======
 											"width": 69.357421875,
 >>>>>>> 1e62f8a5afe68ee9ec40f75d067c8aa462a70be8
+>>>>>>> ab403b8d3729687a26467328f5556b3261ea232c
 											"height": 12,
 											"text": "«stereotype»"
 										},
@@ -12280,10 +12364,14 @@
 											"left": 745,
 											"top": 115,
 <<<<<<< HEAD
+											"width": 69.380859375,
+=======
+<<<<<<< HEAD
 											"width": 61.3125,
 =======
 											"width": 69.357421875,
 >>>>>>> 1e62f8a5afe68ee9ec40f75d067c8aa462a70be8
+>>>>>>> ab403b8d3729687a26467328f5556b3261ea232c
 											"height": 12,
 											"text": "Refine"
 										},
@@ -12321,7 +12409,7 @@
 									"containerExtending": true,
 									"left": 740,
 									"top": 96,
-									"width": 79.357421875,
+									"width": 79.380859375,
 									"height": 36,
 									"stereotypeLabel": {
 										"$ref": "AAAAAAGIBhiiA33g+Co="
@@ -12393,10 +12481,14 @@
 							"left": 740,
 							"top": 96,
 <<<<<<< HEAD
+							"width": 79.380859375,
+=======
+<<<<<<< HEAD
 							"width": 71.3125,
 =======
 							"width": 79.357421875,
 >>>>>>> 1e62f8a5afe68ee9ec40f75d067c8aa462a70be8
+>>>>>>> ab403b8d3729687a26467328f5556b3261ea232c
 							"height": 36,
 							"autoResize": true,
 							"nameCompartment": {
@@ -12462,10 +12554,14 @@
 											"left": 745,
 											"top": 153,
 <<<<<<< HEAD
+											"width": 69.380859375,
+=======
+<<<<<<< HEAD
 											"width": 61.3125,
 =======
 											"width": 69.357421875,
 >>>>>>> 1e62f8a5afe68ee9ec40f75d067c8aa462a70be8
+>>>>>>> ab403b8d3729687a26467328f5556b3261ea232c
 											"height": 12,
 											"text": "«stereotype»"
 										},
@@ -12480,10 +12576,14 @@
 											"left": 745,
 											"top": 167,
 <<<<<<< HEAD
+											"width": 69.380859375,
+=======
+<<<<<<< HEAD
 											"width": 61.3125,
 =======
 											"width": 69.357421875,
 >>>>>>> 1e62f8a5afe68ee9ec40f75d067c8aa462a70be8
+>>>>>>> ab403b8d3729687a26467328f5556b3261ea232c
 											"height": 12,
 											"text": "Trace"
 										},
@@ -12521,7 +12621,7 @@
 									"containerExtending": true,
 									"left": 740,
 									"top": 148,
-									"width": 79.357421875,
+									"width": 79.380859375,
 									"height": 36,
 									"stereotypeLabel": {
 										"$ref": "AAAAAAGIBhiiBH3q664="
@@ -12593,10 +12693,14 @@
 							"left": 740,
 							"top": 148,
 <<<<<<< HEAD
+							"width": 79.380859375,
+=======
+<<<<<<< HEAD
 							"width": 71.3125,
 =======
 							"width": 79.357421875,
 >>>>>>> 1e62f8a5afe68ee9ec40f75d067c8aa462a70be8
+>>>>>>> ab403b8d3729687a26467328f5556b3261ea232c
 							"height": 36,
 							"autoResize": true,
 							"nameCompartment": {

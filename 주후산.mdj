@@ -2540,11 +2540,11 @@
 											},
 											"font": "Arial;13;0",
 											"left": 130.3662109375,
-											"top": 135,
+											"top": 127,
 											"width": 126.267578125,
 											"height": 13,
-											"alpha": -4.218448207795575,
-											"distance": 14.7648230602334,
+											"alpha": -4.390638854559537,
+											"distance": 22.135943621178654,
 											"text": "2 : inputInformation()"
 										},
 										{
@@ -4852,7 +4852,7 @@
 											"height": 13,
 											"alpha": 1.5707963267948966,
 											"distance": 10,
-											"text": "2 : inputButton()"
+											"text": "2 : clickButton()"
 										},
 										{
 											"_type": "NodeLabelView",
@@ -5301,7 +5301,7 @@
 							"_parent": {
 								"$ref": "AAAAAAGIAjf94YEbbo4="
 							},
-							"name": "inputButton()",
+							"name": "clickButton()",
 							"source": {
 								"$ref": "AAAAAAGIBfg6M0Chdw4="
 							},
@@ -8134,7 +8134,7 @@
 												"$ref": "AAAAAAGIAj+dHrrQR38="
 											},
 											"font": "Arial;13;0",
-											"left": 24.72998046875,
+											"left": 32.72998046875,
 											"top": 13,
 											"width": 45.0908203125,
 											"height": 13,
@@ -8147,7 +8147,7 @@
 												"$ref": "AAAAAAGIAj+dHrrQR38="
 											},
 											"font": "Arial;13;1",
-											"left": 5,
+											"left": 13,
 											"top": 13,
 											"width": 14.72998046875,
 											"height": 13,
@@ -8155,6 +8155,7 @@
 										}
 									],
 									"font": "Arial;13;0",
+									"left": 8,
 									"top": 8,
 									"width": 849,
 									"height": 289,
@@ -9363,11 +9364,11 @@
 											},
 											"font": "Arial;13;0",
 											"left": 562.35400390625,
-											"top": 88,
+											"top": 96,
 											"width": 156.2919921875,
 											"height": 13,
-											"alpha": 1.5707960565246264,
-											"distance": 37,
+											"alpha": 1.5707959819673105,
+											"distance": 29,
 											"text": "2.1.2 : deactivateMember()"
 										},
 										{
@@ -9789,7 +9790,7 @@
 											"height": 13,
 											"alpha": 1.5707963267948966,
 											"distance": 10,
-											"text": "2 : inputButton()"
+											"text": "2 : clickButton()"
 										},
 										{
 											"_type": "NodeLabelView",
@@ -10102,9 +10103,9 @@
 												"$ref": "AAAAAAGICMX4ZnVjdME="
 											},
 											"font": "Arial;13;0",
-											"left": 583.421875,
+											"left": 582.491943359375,
 											"top": 112,
-											"width": 114.15625,
+											"width": 116.01611328125,
 											"height": 13,
 											"alpha": 1.5707955575641275,
 											"distance": 13,
@@ -10238,7 +10239,7 @@
 							"_parent": {
 								"$ref": "AAAAAAGIAj+dHrrOAhI="
 							},
-							"name": "inputButton()",
+							"name": "clickButton()",
 							"source": {
 								"$ref": "AAAAAAGIBgE9nrP136I="
 							},
