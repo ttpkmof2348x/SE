@@ -19494,7 +19494,7 @@
 											"font": "Arial;13;0",
 											"left": 469,
 											"top": 389,
-											"width": 116.27001953125,
+											"width": 128.96533203125,
 											"height": 13,
 											"text": "«entity»"
 										},
@@ -19507,7 +19507,7 @@
 											"font": "Arial;13;1",
 											"left": 469,
 											"top": 404,
-											"width": 116.27001953125,
+											"width": 128.96533203125,
 											"height": 13,
 											"text": "Recruitment"
 										},
@@ -19542,7 +19542,7 @@
 									"font": "Arial;13;0",
 									"left": 464,
 									"top": 384,
-									"width": 126.27001953125,
+									"width": 138.96533203125,
 									"height": 38,
 									"stereotypeLabel": {
 										"$ref": "AAAAAAGIBtAObnJMVjc="
@@ -19566,11 +19566,98 @@
 									"model": {
 										"$ref": "AAAAAAGIBs6/PHAJ5KU="
 									},
+									"subViews": [
+										{
+											"_type": "UMLAttributeView",
+											"_id": "AAAAAAGICKz04GgPIHU=",
+											"_parent": {
+												"$ref": "AAAAAAGIBtAObnJQ8Ag="
+											},
+											"model": {
+												"$ref": "AAAAAAGICKz0wGgMCe0="
+											},
+											"font": "Arial;13;0",
+											"left": 469,
+											"top": 427,
+											"width": 128.96533203125,
+											"height": 13,
+											"text": "-companyName",
+											"horizontalAlignment": 0
+										},
+										{
+											"_type": "UMLAttributeView",
+											"_id": "AAAAAAGICK0NHWgWMAs=",
+											"_parent": {
+												"$ref": "AAAAAAGIBtAObnJQ8Ag="
+											},
+											"model": {
+												"$ref": "AAAAAAGICK0NEmgToQQ="
+											},
+											"font": "Arial;13;0",
+											"left": 469,
+											"top": 442,
+											"width": 128.96533203125,
+											"height": 13,
+											"text": "-task",
+											"horizontalAlignment": 0
+										},
+										{
+											"_type": "UMLAttributeView",
+											"_id": "AAAAAAGICK0gIWgdpvo=",
+											"_parent": {
+												"$ref": "AAAAAAGIBtAObnJQ8Ag="
+											},
+											"model": {
+												"$ref": "AAAAAAGICK0gGGgaR4M="
+											},
+											"font": "Arial;13;0",
+											"left": 469,
+											"top": 457,
+											"width": 128.96533203125,
+											"height": 13,
+											"text": "-numPeople",
+											"horizontalAlignment": 0
+										},
+										{
+											"_type": "UMLAttributeView",
+											"_id": "AAAAAAGICK26kGgkGv0=",
+											"_parent": {
+												"$ref": "AAAAAAGIBtAObnJQ8Ag="
+											},
+											"model": {
+												"$ref": "AAAAAAGICK26hGghEpE="
+											},
+											"font": "Arial;13;0",
+											"left": 469,
+											"top": 472,
+											"width": 128.96533203125,
+											"height": 13,
+											"text": "-applyDeadline",
+											"horizontalAlignment": 0
+										},
+										{
+											"_type": "UMLAttributeView",
+											"_id": "AAAAAAGICK3YH2grF+Q=",
+											"_parent": {
+												"$ref": "AAAAAAGIBtAObnJQ8Ag="
+											},
+											"model": {
+												"$ref": "AAAAAAGICK3YFGgovf8="
+											},
+											"font": "Arial;13;0",
+											"left": 469,
+											"top": 487,
+											"width": 128.96533203125,
+											"height": 13,
+											"text": "-applicantsNum",
+											"horizontalAlignment": 0
+										}
+									],
 									"font": "Arial;13;0",
 									"left": 464,
 									"top": 422,
-									"width": 126.27001953125,
-									"height": 10
+									"width": 138.96533203125,
+									"height": 83
 								},
 								{
 									"_type": "UMLOperationCompartmentView",
@@ -19593,17 +19680,17 @@
 											},
 											"font": "Arial;13;0",
 											"left": 469,
-											"top": 437,
-											"width": 116.27001953125,
+											"top": 510,
+											"width": 128.96533203125,
 											"height": 13,
-											"text": "+listApplications()",
+											"text": "+printApplicantsNum()",
 											"horizontalAlignment": 0
 										}
 									],
 									"font": "Arial;13;0",
 									"left": 464,
-									"top": 432,
-									"width": 126.27001953125,
+									"top": 505,
+									"width": 138.96533203125,
 									"height": 23
 								},
 								{
@@ -19646,8 +19733,8 @@
 							"containerChangeable": true,
 							"left": 464,
 							"top": 384,
-							"width": 126.27001953125,
-							"height": 73,
+							"width": 138.96533203125,
+							"height": 144,
 							"nameCompartment": {
 								"$ref": "AAAAAAGIBtAObnJLas0="
 							},
@@ -20048,6 +20135,53 @@
 							"stereotype": {
 								"$ref": "AAAAAAGIBhiiBH4r3Kk="
 							},
+							"attributes": [
+								{
+									"_type": "UMLAttribute",
+									"_id": "AAAAAAGICKz0wGgMCe0=",
+									"_parent": {
+										"$ref": "AAAAAAGIBs6/PHAJ5KU="
+									},
+									"name": "companyName",
+									"visibility": "private"
+								},
+								{
+									"_type": "UMLAttribute",
+									"_id": "AAAAAAGICK0NEmgToQQ=",
+									"_parent": {
+										"$ref": "AAAAAAGIBs6/PHAJ5KU="
+									},
+									"name": "task",
+									"visibility": "private"
+								},
+								{
+									"_type": "UMLAttribute",
+									"_id": "AAAAAAGICK0gGGgaR4M=",
+									"_parent": {
+										"$ref": "AAAAAAGIBs6/PHAJ5KU="
+									},
+									"name": "numPeople",
+									"visibility": "private"
+								},
+								{
+									"_type": "UMLAttribute",
+									"_id": "AAAAAAGICK26hGghEpE=",
+									"_parent": {
+										"$ref": "AAAAAAGIBs6/PHAJ5KU="
+									},
+									"name": "applyDeadline",
+									"visibility": "private"
+								},
+								{
+									"_type": "UMLAttribute",
+									"_id": "AAAAAAGICK3YFGgovf8=",
+									"_parent": {
+										"$ref": "AAAAAAGIBs6/PHAJ5KU="
+									},
+									"name": "applicantsNum",
+									"visibility": "private"
+								}
+							],
 							"operations": [
 								{
 									"_type": "UMLOperation",
@@ -20055,7 +20189,7 @@
 									"_parent": {
 										"$ref": "AAAAAAGIBs6/PHAJ5KU="
 									},
-									"name": "listApplications"
+									"name": "printApplicantsNum"
 								}
 							]
 						}

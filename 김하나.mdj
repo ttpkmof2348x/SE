@@ -15777,13 +15777,13 @@
 												"$ref": "AAAAAAGICAOvuWYnmLo="
 											},
 											"font": "Arial;13;0",
-											"left": 379.46142578125,
+											"left": 365.54736328125,
 											"top": 471,
-											"width": 126.0771484375,
+											"width": 153.9052734375,
 											"height": 13,
 											"alpha": -1.5707957017948966,
 											"distance": 16,
-											"text": "3.1.1 : ~Recruitment()"
+											"text": "3.1.1 : deleteRecruitment()"
 										},
 										{
 											"_type": "NodeLabelView",
@@ -15923,7 +15923,7 @@
 							"_parent": {
 								"$ref": "AAAAAAGIBGxCRd1gO7I="
 							},
-							"name": "~Recruitment()",
+							"name": "deleteRecruitment()",
 							"source": {
 								"$ref": "AAAAAAGIBG3Mo+Jxncs="
 							},
@@ -24507,7 +24507,7 @@
 											"top": 756,
 											"width": 192.54345703125,
 											"height": 13,
-											"text": "~Recruitment()",
+											"text": "+deleteRecruitment()",
 											"horizontalAlignment": 0
 										},
 										{
@@ -26651,8 +26651,7 @@
 									"_parent": {
 										"$ref": "AAAAAAGIB+5WwDFU5dY="
 									},
-									"name": "Recruitment",
-									"visibility": "package"
+									"name": "deleteRecruitment"
 								},
 								{
 									"_type": "UMLOperation",
