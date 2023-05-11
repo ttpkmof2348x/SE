@@ -6281,7 +6281,7 @@
 											"height": 13,
 											"alpha": 1.570795892012288,
 											"distance": 23,
-											"text": "3.1 : showRecuritmentDetails()"
+											"text": "3.1 : showRecruitmentDetails()"
 										},
 										{
 											"_type": "NodeLabelView",
@@ -7811,7 +7811,7 @@
 											"height": 16,
 											"alpha": -3.0673491958249115,
 											"distance": 121.33424908079334,
-											"text": "3.1.1 : listRecuritmentDetails()"
+											"text": "3.1.1 : listRecruitmentDetails()"
 										},
 										{
 											"_type": "NodeLabelView",
@@ -7897,7 +7897,7 @@
 							"_parent": {
 								"$ref": "AAAAAAGIBFW50UaruNc="
 							},
-							"name": "showRecuritmentDetails()",
+							"name": "showRecruitmentDetails()",
 							"source": {
 								"$ref": "AAAAAAGIBFhyWEj3KZg="
 							},
@@ -7951,7 +7951,7 @@
 							"_parent": {
 								"$ref": "AAAAAAGIBFW50UaruNc="
 							},
-							"name": "listRecuritmentDetails()",
+							"name": "listRecruitmentDetails()",
 							"source": {
 								"$ref": "AAAAAAGIBFsooFHpDb0="
 							},
@@ -12920,12 +12920,12 @@
 													"_parent": {
 														"$ref": "AAAAAAGIBG0A/t5csZk="
 													},
+													"visible": false,
 													"font": "Arial;13;0",
 													"left": 285,
 													"top": 229,
 													"width": 103,
-													"height": 13,
-													"text": "«boundary»"
+													"height": 13
 												},
 												{
 													"_type": "LabelView",
@@ -12935,7 +12935,7 @@
 													},
 													"font": "Arial;13;1",
 													"left": 285,
-													"top": 244,
+													"top": 231,
 													"width": 103,
 													"height": 13,
 													"text": ":DeleteUI"
@@ -12972,7 +12972,7 @@
 											"left": 280,
 											"top": 224,
 											"width": 113,
-											"height": 38,
+											"height": 25,
 											"stereotypeLabel": {
 												"$ref": "AAAAAAGIBG0A/t5dn60="
 											},
@@ -13258,12 +13258,12 @@
 													"_parent": {
 														"$ref": "AAAAAAGIBG1y5d9vygg="
 													},
+													"visible": false,
 													"font": "Arial;13;0",
 													"left": 525,
 													"top": 229,
 													"width": 103,
-													"height": 13,
-													"text": "«control»"
+													"height": 13
 												},
 												{
 													"_type": "LabelView",
@@ -13273,7 +13273,7 @@
 													},
 													"font": "Arial;13;1",
 													"left": 525,
-													"top": 244,
+													"top": 231,
 													"width": 103,
 													"height": 13,
 													"text": ":Delete"
@@ -13310,7 +13310,7 @@
 											"left": 520,
 											"top": 224,
 											"width": 113,
-											"height": 38,
+											"height": 25,
 											"stereotypeLabel": {
 												"$ref": "AAAAAAGIBG1y5d9w8pw="
 											},
@@ -13596,12 +13596,12 @@
 													"_parent": {
 														"$ref": "AAAAAAGIBG3Mo+Jz1Wk="
 													},
+													"visible": false,
 													"font": "Arial;13;0",
 													"left": 525,
 													"top": 429,
 													"width": 104,
-													"height": 13,
-													"text": "«entity»"
+													"height": 13
 												},
 												{
 													"_type": "LabelView",
@@ -13611,7 +13611,7 @@
 													},
 													"font": "Arial;13;1",
 													"left": 525,
-													"top": 444,
+													"top": 431,
 													"width": 104,
 													"height": 13,
 													"text": ":Recruitment"
@@ -13648,7 +13648,7 @@
 											"left": 520,
 											"top": 424,
 											"width": 114,
-											"height": 38,
+											"height": 25,
 											"stereotypeLabel": {
 												"$ref": "AAAAAAGIBG3Mo+J0i/Q="
 											},
@@ -15955,9 +15955,7 @@
 								"$ref": "AAAAAAGIBGxCRd1gO7I="
 							},
 							"name": ":DeleteUI",
-							"stereotype": {
-								"$ref": "AAAAAAGIB+dQjRLH7Qs="
-							},
+							"stereotype": "",
 							"represent": {
 								"$ref": "AAAAAAGIBG0A/t5Znlk="
 							},
@@ -15970,9 +15968,7 @@
 								"$ref": "AAAAAAGIBGxCRd1gO7I="
 							},
 							"name": ":Delete",
-							"stereotype": {
-								"$ref": "AAAAAAGIB+dQjRLE1hM="
-							},
+							"stereotype": "",
 							"represent": {
 								"$ref": "AAAAAAGIBG1y5d9sZJw="
 							},
@@ -15985,9 +15981,7 @@
 								"$ref": "AAAAAAGIBGxCRd1gO7I="
 							},
 							"name": ":Recruitment",
-							"stereotype": {
-								"$ref": "AAAAAAGIB+dQixHt3XA="
-							},
+							"stereotype": "",
 							"represent": {
 								"$ref": "AAAAAAGIBG3Mo+JwGyU="
 							},
